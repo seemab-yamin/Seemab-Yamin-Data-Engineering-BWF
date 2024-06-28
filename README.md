@@ -15,6 +15,22 @@ Throughout this fellowship, I concentrated on key areas of data engineering, inc
 
 The repository contains all relevant code, documentation, and resources associated with my projects and tasks.
 
+
+
+
+## About Me
+I am enthusiastic about Data Engineering and enjoy exploring various data technologies to solve real-world challenges.
+
+## Connect with Me
+You can find me on:
+- [LinkedIn](https://linkedin.com/in/)
+
+- [Twitter](https://x.com/seemab_yamin)
+
+- [GitHub](https://github.com/seemab-yamin/)
+
+Feel free to explore the repository and its contents. Contributions, feedback, and suggestions are welcome!
+
 ---
 
 <img width="1584" alt="D 3" src="https://github.com/heighterses/Abdullah-Bin-Aftab-Data-Engineering-BWF/assets/110668234/3fd92013-7f60-4d74-9a3b-957379231b38">
